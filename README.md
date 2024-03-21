@@ -1,1 +1,1 @@
-# image-super-resolution
+# image/video-super-resolution
